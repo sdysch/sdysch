@@ -1,5 +1,9 @@
 # Hello!
 
+<a>
+  <src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/face.png" />
+</a>
+
 - I'm a postdoctoral research associate at the University of Manchester, working on the ATLAS experiment at CERN.
 - More stuff might go here soon....
 - 📫 How to reach me:
@@ -13,7 +17,7 @@
   <img align="left" alt="Sam's Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/gitlab.svg" />
 </a>
 <a href="https://gitlab.cern.ch/sdysch">
-  <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/cern.svg" />
+  <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/gitlab.svg" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdysch)](https://github.com/anuraghazra/github-readme-stats)
