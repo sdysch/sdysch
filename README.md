@@ -1,6 +1,6 @@
 # Hello!
 
-# [![Sam Dysch header](https://raw.githubusercontent.com/sdysch/sdysch/main/icon/face.png?raw=true)]
+# [![Sam Dysch header](https://raw.githubusercontent.com/sdysch/sdysch/main/icon/face.png?raw=true)
 👋 Sam Dysch — @sdysch
 
 - I'm a postdoctoral research associate at the University of Manchester, working on the ATLAS experiment at CERN.
