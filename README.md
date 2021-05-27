@@ -13,7 +13,7 @@
   <img align="left" alt="Sam's Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/gitlab.svg" />
 </a>
 <a href="https://gitlab.cern.ch/sdysch">
-  <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/gitlab.svg" />
+  <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/master/icons/cern.svg" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdysch)](https://github.com/anuraghazra/github-readme-stats)
