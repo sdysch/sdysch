@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sdysch/">
   <img align="left" alt="Sam's Linkdein" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/linkedin.svg" />
 </a>
-<a href="https://gitlab.com/sdish">
+<a href="https://gitlab.com/sdysch">
   <img align="left" alt="Sam's Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/gitlab.svg" />
 </a>
 <a href="https://gitlab.cern.ch/sdysch">
