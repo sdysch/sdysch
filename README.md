@@ -8,6 +8,7 @@
 - More stuff might go here soon....
 - You can find some places to contact me below
 - If you really want it, my public gpg key can be found [here](https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg)
+	- Or run `curl -sL https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg | gpg --import`
 <a href="https://twitter.com/sam_dysch">
   <img align="left" alt="Sam's Twitter" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/twitter.svg" />
 </a>
