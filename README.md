@@ -6,7 +6,7 @@
 
 - I'm a postdoctoral research associate at the University of Manchester, working on the ATLAS experiment at CERN.
 - More stuff might go here soon....
-- You can find some places to contact me below
+- You can find some places to contact me below, or at my [website](https://sdysch.github.io/)
 - If you really want it, my public gpg key can be found [here](https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg)
 	- Or run `curl -sL https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg | gpg --import`
 <a href="https://twitter.com/sam_dysch">
