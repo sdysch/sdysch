@@ -2,7 +2,7 @@
 
 ![me](https://raw.githubusercontent.com/sdysch/sdysch/main/icons/me.png)
 
-Sam Dysch — @sdysch
+## Sam Dysch — @sdysch
 
 - I'm a postdoctoral research associate at the University of Manchester, working on the ATLAS experiment at CERN.
 - More stuff might go here soon....
@@ -14,6 +14,8 @@ Sam Dysch — @sdysch
 	<summary>Most used languages</summary>
 	<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdysch&theme=dracula&langs_count=7" />
 </details>
+
+## Find me here
 
 <a href="https://twitter.com/sam_dysch">
   <img align="left" alt="Sam's Twitter" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/twitter.svg" />
