@@ -31,5 +31,5 @@ I'm Sam Dysch.
   <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/gitlab.svg" />
 </a>
 <a href="https://www.kaggle.com/sdysch">
-  <img align="left" alt="Sam's Kaggle" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/kaggle.svg" />
+  <img align="left" alt="Sam's Kaggle" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/kaggle_2.svg" />
 </a>
