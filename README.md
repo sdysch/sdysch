@@ -28,3 +28,6 @@
 <a href="https://gitlab.cern.ch/sdysch">
   <img align="left" alt="Sam's CERN Gitlab" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/gitlab.svg" />
 </a>
+<a href="https://www.kaggle.com/sdysch">
+  <img align="left" alt="Sam's Kaggle" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/kaggle.svg" />
+</a>
