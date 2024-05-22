@@ -2,9 +2,9 @@
 
 ![me](https://raw.githubusercontent.com/sdysch/sdysch/main/icons/me.png)
 
-## Sam Dysch — @sdysch
+## Sam Salling-Dysch — @sdysch
 
-I'm Sam Dysch.
+I'm Sam Salling-Dysch.
 
 - More stuff might go here soon....
 - You can find some places to contact me below, or at my [website](https://sdysch.github.io/)
