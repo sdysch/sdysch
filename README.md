@@ -13,7 +13,7 @@ I'm Sam Salling-Dysch.
 
 <details>
 	<summary>Most used languages</summary>
-	<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdysch&theme=dracula&langs_count=7" />
+	<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdysch&theme=dracula&langs_count=7&hide=jupyter%20notebook" />
 </details>
 
 ## Find me here
