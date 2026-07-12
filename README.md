@@ -9,6 +9,11 @@ More about me on my [website](https://sdysch.github.io/).
 - 🔑 Public GPG key: [here](https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg), or:
   `curl -sL https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg | gpg --import`
 
+<details>
+	<summary>Most used languages</summary>
+	<img alt="Most used languages" src="https://edge-readme-stats.dancodes.online/langs?username=sdysch&theme=dracula&hide=Jupyter%20Notebook&langs_count=7" />
+</details>
+
 
 ## You can also find me here
 <a href="https://www.linkedin.com/in/sdysch/">
@@ -20,8 +25,3 @@ More about me on my [website](https://sdysch.github.io/).
 <a href="https://www.kaggle.com/sdysch">
   <img align="left" alt="Sam's Kaggle" width="22px" src="https://raw.githubusercontent.com/sdysch/sdysch/main/icons/kaggle_2.svg" />
 </a>
-
-<details>
-	<summary>Most used languages</summary>
-	<img alt="Most used languages" src="https://edge-readme-stats.dancodes.online/langs?username=sdysch&theme=dracula&hide=Jupyter%20Notebook&langs_count=7" />
-</details>
