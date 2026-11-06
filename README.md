@@ -2,8 +2,8 @@
 ### @sdysch — Data scientist | ex-physicist (ATLAS/CERN)
 
 Data scientist working across forecasting, ML, and statistical modelling
-in hospitality, mobility, and energy.
-Currently diving into MLOps and engineering best practices
+in shipping, having previously worked in hospitality, mobility, and energy.
+Currently diving into MLOps and engineering best practices.
 More about me on my [website](https://sdysch.github.io/).
 
 - 🔑 Public GPG key: [here](https://raw.githubusercontent.com/sdysch/sdysch/main/key.gpg), or:
